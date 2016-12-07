@@ -2,4 +2,4 @@
 
 远程添加内容：111111111111
 远程添加内容：222222222222
-Adding a new line in master.
+Createing a new branch is quick AND simple.
